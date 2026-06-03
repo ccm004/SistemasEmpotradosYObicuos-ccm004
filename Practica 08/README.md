@@ -1,4 +1,4 @@
 # Practica 08
 
-La carpeta [`Dataset/`](Dataset) contiene el conjunto de imágenes utilizado
-(708 imágenes `.jpg` y el fichero de anotaciones `_annotations.coco.json`).
+- `imagenes.zip` — conjunto de 708 imágenes del dataset.
+- `_annotations.coco.json` — anotaciones del dataset en formato COCO.
